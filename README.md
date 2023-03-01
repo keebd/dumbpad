@@ -1,6 +1,8 @@
-# dumbpad
+# dumbpad - CircuitPython Fork!
 
 dumbpad is a simple macropad with support for up to two rotary encoders, designed to use [QMK](https://qmk.fm/) firmware.
+
+However, you can replace the pro-micro with an [Adafruit KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302) and program it in CircuitPython Instead! See the [README.md file](./circuitpython/README.md) in the [circuitpython directory](./circuitpython/) to make this project with CircuitPython!! 
 
 ## Gallery
 
