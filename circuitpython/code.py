@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2022 Dan Halbert for Adafruit Industries
+# Credit goes to adafruit industries for most of the code.  I just put it together this way but they made it possible
 #
 # SPDX-License-Identifier: MIT
 import rotaryio

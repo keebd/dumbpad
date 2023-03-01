@@ -43,3 +43,7 @@ If you are using Mu, click the Load button in the button bar, navigate to the CI
 ![image1](./assets/images/assembled1.jpg)
 
 ![image2](./assets/images/assembled2.jpg)
+
+## Credit
+
+The CircuitPython code was made possible by adafruit.  They provide tons of example code that you can patch together.  Lots of love for them.
