@@ -1,4 +1,4 @@
-# dumbpad with CircuitPython!!!
+# dumbpad with CircuitPython for the combo_oled!!!
 
 ## About the Kee Boar
 
@@ -32,9 +32,14 @@ If you are using Mu, click the Load button in the button bar, navigate to the CI
 
 9. Download the latest [CircuitPython Library Bundle](https://circuitpython.org/libraries)
 
-10. Drag and drop the required libraries from the bundle to the lib folder on the CIRCUITPY drive.  There are some in the lib folder here but they will eventually be out of date so you want to take it from the [latest bundle](https://circuitpython.org/libraries)
+10. Drag and drop the required libraries from the bundle to the lib folder on the CIRCUITPY drive. There are some in the lib folder here but they will eventually be out of date so you want to take it from the [latest bundle](https://circuitpython.org/libraries)
 
-11. You should note that there are two extra pins on the KB2040/key boar.  Either don't populate them with header or plug it in so they hang off like so:
+11. You should note that there are two extra pins on the KB2040/key boar. Either don't populate them with header or plug it in so they hang off like so:
 
 ![assembled image](./assets/images/assembly.jpg)
 
+## Image of the completed project:
+
+![image1](./assets/images/assembled1.jpg)
+
+![image2](./assets/images/assembled2.jpg)
